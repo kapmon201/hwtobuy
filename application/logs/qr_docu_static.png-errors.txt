@@ -1,0 +1,102 @@
+2020-08-31 11:14:38: 	<ul>
+		<li>Severity: Warning</li>
+		<li>Message:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/Telekonsultasi/application/cache/frame_12.dat): failed to open stream: No such file or directory</li>
+		<li>Filename: qrcode/qrspec.php</li>
+		<li>Line Number: 568</li>
+	</ul>
+	<ul>
+		<li>Severity: Warning</li>
+		<li>Message:  mkdir(): No such file or directory</li>
+		<li>Filename: qrcode/qrmask.php</li>
+		<li>Line Number: 154</li>
+	</ul>
+	<ul>
+		<li>Severity: Warning</li>
+		<li>Message:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/Telekonsultasi/application/cache/mask_0/mask_65_0.dat): failed to open stream: No such file or directory</li>
+		<li>Filename: qrcode/qrmask.php</li>
+		<li>Line Number: 155</li>
+	</ul>
+	<ul>
+		<li>Severity: Warning</li>
+		<li>Message:  mkdir(): No such file or directory</li>
+		<li>Filename: qrcode/qrmask.php</li>
+		<li>Line Number: 154</li>
+	</ul>
+	<ul>
+		<li>Severity: Warning</li>
+		<li>Message:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/Telekonsultasi/application/cache/mask_1/mask_65_1.dat): failed to open stream: No such file or directory</li>
+		<li>Filename: qrcode/qrmask.php</li>
+		<li>Line Number: 155</li>
+	</ul>
+	<ul>
+		<li>Severity: Warning</li>
+		<li>Message:  mkdir(): No such file or directory</li>
+		<li>Filename: qrcode/qrmask.php</li>
+		<li>Line Number: 154</li>
+	</ul>
+	<ul>
+		<li>Severity: Warning</li>
+		<li>Message:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/Telekonsultasi/application/cache/mask_2/mask_65_2.dat): failed to open stream: No such file or directory</li>
+		<li>Filename: qrcode/qrmask.php</li>
+		<li>Line Number: 155</li>
+	</ul>
+	<ul>
+		<li>Severity: Warning</li>
+		<li>Message:  mkdir(): No such file or directory</li>
+		<li>Filename: qrcode/qrmask.php</li>
+		<li>Line Number: 154</li>
+	</ul>
+	<ul>
+		<li>Severity: Warning</li>
+		<li>Message:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/Telekonsultasi/application/cache/mask_3/mask_65_3.dat): failed to open stream: No such file or directory</li>
+		<li>Filename: qrcode/qrmask.php</li>
+		<li>Line Number: 155</li>
+	</ul>
+	<ul>
+		<li>Severity: Warning</li>
+		<li>Message:  mkdir(): No such file or directory</li>
+		<li>Filename: qrcode/qrmask.php</li>
+		<li>Line Number: 154</li>
+	</ul>
+	<ul>
+		<li>Severity: Warning</li>
+		<li>Message:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/Telekonsultasi/application/cache/mask_4/mask_65_4.dat): failed to open stream: No such file or directory</li>
+		<li>Filename: qrcode/qrmask.php</li>
+		<li>Line Number: 155</li>
+	</ul>
+	<ul>
+		<li>Severity: Warning</li>
+		<li>Message:  mkdir(): No such file or directory</li>
+		<li>Filename: qrcode/qrmask.php</li>
+		<li>Line Number: 154</li>
+	</ul>
+	<ul>
+		<li>Severity: Warning</li>
+		<li>Message:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/Telekonsultasi/application/cache/mask_5/mask_65_5.dat): failed to open stream: No such file or directory</li>
+		<li>Filename: qrcode/qrmask.php</li>
+		<li>Line Number: 155</li>
+	</ul>
+	<ul>
+		<li>Severity: Warning</li>
+		<li>Message:  mkdir(): No such file or directory</li>
+		<li>Filename: qrcode/qrmask.php</li>
+		<li>Line Number: 154</li>
+	</ul>
+	<ul>
+		<li>Severity: Warning</li>
+		<li>Message:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/Telekonsultasi/application/cache/mask_6/mask_65_6.dat): failed to open stream: No such file or directory</li>
+		<li>Filename: qrcode/qrmask.php</li>
+		<li>Line Number: 155</li>
+	</ul>
+	<ul>
+		<li>Severity: Warning</li>
+		<li>Message:  mkdir(): No such file or directory</li>
+		<li>Filename: qrcode/qrmask.php</li>
+		<li>Line Number: 154</li>
+	</ul>
+	<ul>
+		<li>Severity: Warning</li>
+		<li>Message:  file_put_contents(/Applications/XAMPP/xamppfiles/htdocs/Telekonsultasi/application/cache/mask_7/mask_65_7.dat): failed to open stream: No such file or directory</li>
+		<li>Filename: qrcode/qrmask.php</li>
+		<li>Line Number: 155</li>
+	</ul>

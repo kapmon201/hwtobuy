@@ -1,0 +1,30 @@
+[
+  {
+    "nama": "Sandhika",
+    "umur": 32,
+    "nrp": "1083177",
+    "is_lulus": true,
+    "hobi": [
+      "photography",
+      "watching"
+    ],
+    "pembimbing": {
+      "utama": "Hariandi Maulid",
+      "pendamping": "Marwanto R"
+    }
+  },
+  {
+    "nama": "Taufik",
+    "umur": 29,
+    "nrp": "1103177",
+    "is_lulus": true,
+    "hobi": [
+      "photography",
+      "watching"
+    ],
+    "pembimbing": {
+      "utama": "Bambang",
+      "pendamping": "Iwan S"
+    }
+  }
+]
